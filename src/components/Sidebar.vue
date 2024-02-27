@@ -9,6 +9,7 @@
     >
       <div class="offcanvas-header">
         <h6 class="offcanvas-title d-none d-sm-block" id="offcanvas">Menu</h6>
+
         <button
           type="button"
           class="btn-close text-reset"
@@ -115,10 +116,6 @@
           data-bs-target="#offcanvas"
         ></i>
       </button>
-    </div>
-    <!-- test git -->
-    <div>
-      <button>heello</button>
     </div>
   </div>
 </template>
